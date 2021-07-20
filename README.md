@@ -1,4 +1,5 @@
-# Health_Care_Management_Interface
+# Health_Care_Management_Interface 
+Xinyu Liu, Angela Li, Justin Jao
 Our project models a healthcare booking system that can be utilized by a university to schedule appointments between patients and doctors. Using a relational database management system (RDBMS) structure to organize data, with MySQL and PHP to support the backend programming logic, and HTML and CSS for the front-end design, users can interact with the RDBMS in 4 primary ways: viewing, inserting, updating and deleting records. 
 
 Users can view (some can do SELECTION/PROJECTION on) specified records of doctors, patients, medical exams and medical exam records, and some can also specify which attributes of the relations they want to view. The RDBMS provides INSERT, UPDATE and DELETE functionality (such as for doctors or appointments) to edit the records in the database. 
